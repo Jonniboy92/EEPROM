@@ -1,6 +1,6 @@
 # EEPROM
 
-##📜 Description
+## 📜 Description
 
 This library enables communication with an external I2C EEPROM module. It allows data storage and retrieval to maintain persistent information between microcontroller restarts.
 
